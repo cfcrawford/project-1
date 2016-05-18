@@ -1,0 +1,242 @@
+body {
+  background: url(https://images2.alphacoders.com/195/195042.jpg);
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: white;
+}
+
+#stmg {
+  max-width: 850px;
+  margin: 0 auto;
+  margin-top: 50px;
+  display: block;
+}
+
+
+#info {
+  position: relative;
+  right: -200px;
+  padding: 0px, auto;
+  width: 605px;
+  height: 50px;
+  color: white;
+}
+#score {
+  float: right;
+  width: 150px;
+  height: 50px;
+  border: 2px solid white;
+  border-radius: 10px;
+  color: white;
+}
+#messages {
+  float: left;
+  width: 150px;
+  height: 50px;
+  border: 2px solid white;
+  border-radius: 10px;
+  font: #000000;
+}
+
+.board {
+  position: relative;
+  right: -250px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.col-1 {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+}
+.col-2 {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+}
+.col-3 {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+}
+.col-4 {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+}
+
+// Grid styling borrowed from https://www.sitepoint.com/easy-responsive-css-grid-layouts/
+.row {
+  margin: 0 -10px;
+  margin-bottom: 10px;
+}
+
+.row:last-child {
+  margin-bottom: 0;
+}
+
+[class*="col-"] {
+  padding: 10px;
+}
+@media all and ( min-width: 600px ) {
+
+  .row {
+    display: table;
+    table-layout: fixed;
+
+  }
+  [class*="col-"] {
+    display: table-cell;
+  }
+
+  /* set col widths */
+  .col-2-3 {
+    width: 66.66%;
+  }
+  .col-1-2 {
+    width: 50%;
+  }
+  .col-1-3 {
+    width: 33.33%;
+  }
+  .col-1-4 {
+    width: 25%;
+  }
+  .col-1-8 {
+    width: 12.5%;
+  }
+
+}
+
+#div1 {
+  background: url(http://www.entertainmentearth.com/images/AUTOIMAGES/RBPIN008lg.jpg);
+  background-size: contain;
+}
+#div2 {
+  background: url(http://startrek2009.com/wp-content/uploads/2016/03/star-trek-next-generation-costumes-adults-sword-300x300.jpg);
+  background-size: contain;
+}
+#div3 {
+  background: url(http://www.entertainmentearth.com/images/AUTOIMAGES/RU8767lg.jpg);
+  background-size: contain;
+}
+#div4 {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP4JvY34POz73NDdi_8xh5zSCdv-i4bazROFvAeUeaS7lpkdpZceHxyQ);
+  background-size: contain;
+}
+#div5 {
+  background: url(http://vignette1.wikia.nocookie.net/memoryalpha/images/c/c6/USS_Enterprise_NCC-1701-D.jpg/revision/latest?cb=20081018091759&path-prefix=de);
+  background-size: contain;
+}
+#div6 {
+  background: url(http://2eof2j3oc7is20vt9q3g7tlo5xe.wpengine.netdna-cdn.com/wp-content/uploads/2013/02/KlingonFoodInReplicator.jpg);
+  background-size: contain;
+}
+#div7 {
+  background: url(http://vignette3.wikia.nocookie.net/memoryalpha/images/5/5d/Holodeck_in_Emissary.jpg/revision/latest?cb=20120425001445&path-prefix=en);
+  background-size: 100px 100px;
+}
+#div8 {
+  background: url(http://vignette4.wikia.nocookie.net/memoryalpha/images/0/04/TNG_transporter_effect_1.jpg/revision/latest/scale-to-width-down/185?cb=20110307003245&path-prefix=en);
+  background-size: contain;
+}
+
+
+/*
+
+
+
+
+
+
+
+
+
+
+div {
+  height: 25px;
+  width: 25px;
+  border: 2px solid black;
+}
+
+.column1 {
+  position: relative;
+}
+.row1 {
+  position: absolute;
+}
+.board {
+  width: 100%;
+  max-width: 1200px;
+}
+#column1 {
+  position: absolute;
+}
+#column2 {
+  position: absolute;
+  right: -100px;
+}
+#column3 {
+  position: absolute;
+  right: -150px;
+}
+#column4 {
+  position: absolute;
+  right: -200px;
+}
+#div1 {
+  position: absolute;
+}
+#div2 {
+  position: absolute;
+}
+#div3 {
+  position: absolute;
+}
+#div4 {
+  position: absolute;
+}
+#div5 {
+  position: absolute;
+}
+#div6 {
+  position: absolute;
+}
+#div7 {
+  position: absolute;
+  border: 5px solid red;
+}
+#div8 {
+  position: absolute;
+}
+#div9 {
+  position: absolute;
+}
+#div10 {
+  position: absolute;
+}
+#div11 {
+  position: absolute;
+  border: 5px solid red;
+}
+#div12 {
+  position: absolute;
+}
+#div13 {
+  position: absolute;
+}
+#div14 {
+  position: absolute;
+}
+#div15 {
+  position: absolute;
+}
+#div16 {
+  position: absolute;
+}
+*/
