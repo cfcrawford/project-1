@@ -113,35 +113,67 @@ p {
 
 }
 
-#div1 {
+.div1 {
   background: url(http://www.entertainmentearth.com/images/AUTOIMAGES/RBPIN008lg.jpg);
   background-size: contain;
 }
-#div2 {
+.div2 {
   background: url(http://startrek2009.com/wp-content/uploads/2016/03/star-trek-next-generation-costumes-adults-sword-300x300.jpg);
   background-size: contain;
 }
-#div3 {
+.div3 {
   background: url(http://www.entertainmentearth.com/images/AUTOIMAGES/RU8767lg.jpg);
   background-size: contain;
 }
-#div4 {
+.div4 {
   background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP4JvY34POz73NDdi_8xh5zSCdv-i4bazROFvAeUeaS7lpkdpZceHxyQ);
   background-size: contain;
 }
-#div5 {
+.div5 {
   background: url(http://vignette1.wikia.nocookie.net/memoryalpha/images/c/c6/USS_Enterprise_NCC-1701-D.jpg/revision/latest?cb=20081018091759&path-prefix=de);
   background-size: contain;
 }
-#div6 {
+.div6 {
   background: url(http://2eof2j3oc7is20vt9q3g7tlo5xe.wpengine.netdna-cdn.com/wp-content/uploads/2013/02/KlingonFoodInReplicator.jpg);
   background-size: contain;
 }
-#div7 {
+.div7 {
   background: url(http://vignette3.wikia.nocookie.net/memoryalpha/images/5/5d/Holodeck_in_Emissary.jpg/revision/latest?cb=20120425001445&path-prefix=en);
-  background-size: 100px 100px;
+  background-size: 120px 120px;
 }
-#div8 {
+.div8 {
+  background: url(http://vignette4.wikia.nocookie.net/memoryalpha/images/0/04/TNG_transporter_effect_1.jpg/revision/latest/scale-to-width-down/185?cb=20110307003245&path-prefix=en);
+  background-size: contain;
+}
+.div1 {
+  background: url(http://www.entertainmentearth.com/images/AUTOIMAGES/RBPIN008lg.jpg);
+  background-size: contain;
+}
+.div2 {
+  background: url(http://startrek2009.com/wp-content/uploads/2016/03/star-trek-next-generation-costumes-adults-sword-300x300.jpg);
+  background-size: contain;
+}
+.div3 {
+  background: url(http://www.entertainmentearth.com/images/AUTOIMAGES/RU8767lg.jpg);
+  background-size: contain;
+}
+.div4 {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP4JvY34POz73NDdi_8xh5zSCdv-i4bazROFvAeUeaS7lpkdpZceHxyQ);
+  background-size: contain;
+}
+.div5 {
+  background: url(http://vignette1.wikia.nocookie.net/memoryalpha/images/c/c6/USS_Enterprise_NCC-1701-D.jpg/revision/latest?cb=20081018091759&path-prefix=de);
+  background-size: contain;
+}
+.div6 {
+  background: url(http://2eof2j3oc7is20vt9q3g7tlo5xe.wpengine.netdna-cdn.com/wp-content/uploads/2013/02/KlingonFoodInReplicator.jpg);
+  background-size: contain;
+}
+.div7 {
+  background: url(http://vignette3.wikia.nocookie.net/memoryalpha/images/5/5d/Holodeck_in_Emissary.jpg/revision/latest?cb=20120425001445&path-prefix=en);
+  background-size: 120px 120px;
+}
+.div8 {
   background: url(http://vignette4.wikia.nocookie.net/memoryalpha/images/0/04/TNG_transporter_effect_1.jpg/revision/latest/scale-to-width-down/185?cb=20110307003245&path-prefix=en);
   background-size: contain;
 }
