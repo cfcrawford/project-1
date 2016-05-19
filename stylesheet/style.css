@@ -52,22 +52,22 @@ p {
 .col-1 {
   width: 100px;
   height: 100px;
-  border: 2px solid black;
+  border: 2px solid white;
 }
 .col-2 {
   width: 100px;
   height: 100px;
-  border: 2px solid black;
+  border: 2px solid white;
 }
 .col-3 {
   width: 100px;
   height: 100px;
-  border: 2px solid black;
+  border: 2px solid white;
 }
 .col-4 {
   width: 100px;
   height: 100px;
-  border: 2px solid black;
+  border: 2px solid white;
 }
 
 // Grid styling borrowed from https://www.sitepoint.com/easy-responsive-css-grid-layouts/
