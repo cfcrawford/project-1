@@ -1,4 +1,32 @@
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
+# My Game
+### Memory Game
+
+** I decided to do a memory card game. The objective is to pick two cards at random and match them, or else they will turn facedown. The user with the best memory will win the game with the fewest number of turns.
+
+** My biggest challenge has been to create a function that will clear the div contents when two non-matching cards are selected. I tried several methods including a window timeout, but had trouble getting the method to cancel after the right number of clicks. It kept running so I had to remove the feature but I intend to try again with a new reset method.
+
+** My Trello page: https://trello.com/b/lhSkRVOK/game-project
+
+** I would like to add additional features such as a two-player mode, and a more interesting display for when a winner is found, such as graphics or music.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 # Project #1: The Game
 
@@ -65,7 +93,7 @@ A card game in which all of the cards are laid face down on a surface and two ca
 User can challenge the computer, each takes a turn trying to sink the other ships. The player who sinks the other player's ships first wins!
 
 ##### Flash Cards
-Make some flash cards to drill yourself on Web Development concepts (or whatever you want)! You should have a "deck" of flash cards that you can shuffle (or are randomized them in some way). The user should be able to click one of two buttons, depending if they feel they remember this answer well enough (removing it from the deck) or if they need to keep reviewing it (putting it on the bottom of the stack). A user could keep going until they have "remembered" all cards in the deck and see a win screen. 
+Make some flash cards to drill yourself on Web Development concepts (or whatever you want)! You should have a "deck" of flash cards that you can shuffle (or are randomized them in some way). The user should be able to click one of two buttons, depending if they feel they remember this answer well enough (removing it from the deck) or if they need to keep reviewing it (putting it on the bottom of the stack). A user could keep going until they have "remembered" all cards in the deck and see a win screen.
 
 ##### Something Else!
 Make sure you get the approval of your [squad](http://bit.ly/1nZsVo9)'s instructor if you choose anything else.
